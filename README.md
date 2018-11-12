@@ -4,7 +4,7 @@ Advantages:
 * Suspected multiple mechanisms of action including calmodulin and lipid synthesis disruption makes resistance hard to acheive (https://pubs.acs.org/doi/10.1021/acsinfecdis.7b00157 and https://academic.oup.com/mmy/article/53/8/890/982579 )
 * Phenothiazines have a small but important role in emergency medicine world wide even to this day
 * Lipophilic to penetrate into fungal grain 
-* Apparently long lasting in vivo (30h t1/2 for chlorpromazine 21h t1/2 for thioridazine 17h t1/2 for promethazine) 
+* Long lasting in vivo (30h t1/2 for chlorpromazine 21h t1/2 for thioridazine 17h t1/2 for promethazine) 
 * Chlorpromazine has been used in clinical experiments as an adjuvant for treating some fungal and ameobic infections
 
 Disadvantages:
