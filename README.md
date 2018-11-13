@@ -5,7 +5,7 @@ Advantages:
 * Phenothiazines have a small but important role in emergency medicine world wide even to this day
 * Lipophilic to penetrate into fungal grain 
 * Long lasting in vivo (30h t1/2 for chlorpromazine 21h t1/2 for thioridazine 17h t1/2 for promethazine) 
-* Chlorpromazine has been used in clinical experiments as an adjuvant for treating some fungal and ameobic infections
+* Chlorpromazine has been used in clinical experiments as an adjuvant for treating some fungal and ameobic infections (E.G https://doi.org/10.1016/S0140-6736(83)91769-5 )
 
 Disadvantages:
 * Phenothiazines are photosensitive and some may cause a tetracycline like photosensitivity in vivo - they also must be stored in the dark during labwork
