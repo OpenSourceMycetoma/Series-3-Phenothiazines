@@ -8,6 +8,6 @@ Advantages:
 * Chlorpromazine has been used in clinical experiments as an adjuvant for treating some fungal and ameobic infections
 
 Disadvantages:
-* Penothiazines are photosensitive and some may cause a tetracycline like photosensitivity in vivo - they also must be stored in the dark during labwork
-* High lipophilicity might cause ADMET problems 
-* Agranulocytosis is rare side effect reported from long term use?
+* Phenothiazines are photosensitive and some may cause a tetracycline like photosensitivity in vivo - they also must be stored in the dark during labwork
+* Water solubility is not great by any means
+* Agranulocytosis is rare side effect reported from long term use
