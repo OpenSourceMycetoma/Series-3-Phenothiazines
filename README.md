@@ -1,3 +1,8 @@
+<img src ="https://github.com/OpenSourceMycetoma/Series-3-Phenothiazines/blob/master/frontpage.png"> </img>
+
+
+
+
 Advantages:
 * Phenothiazines show a large spectrum of activity against both fungi and amoeba (including those that cause some NTD's) 
 * Extremely low cost and straightforward to produce (1 kilo of phenothiazine is less than 100 usd from SA)
@@ -11,7 +16,3 @@ Disadvantages:
 * Phenothiazines are photosensitive and some may cause a tetracycline like photosensitivity in vivo - they also must be stored in the dark
 * Water solubility is not great by any means
 * Agranulocytosis is rare side effect reported from long term use
-
-
-
-<img src ="https://github.com/OpenSourceMycetoma/Series-3-Phenothiazines/blob/master/frontpage.png"> </img>
