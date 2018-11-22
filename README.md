@@ -13,6 +13,6 @@ Advantages:
 * Chlorpromazine has been used in clinical antimicrobial experiments a handful of times: (E.G https://doi.org/10.1016/S0140-6736(83)91769-5 )
 
 Disadvantages:
-* Phenothiazines are photosensitive and some may cause a tetracycline like photosensitivity in vivo - they also must be stored in the dark
+* Phenothiazines are photosensitive and some may cause a tetracycline like photosensitivity in vivo - they also must be stored in the dark (however, imipramine derivates are NOT photosenstive)
 * Water solubility is not great by any means
 * Agranulocytosis is rare side effect reported from long term use
