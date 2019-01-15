@@ -14,3 +14,8 @@ Disadvantages:
 * Phenothiazines are photosensitive and some may cause a tetracycline like photosensitivity in vivo - they also must be stored in the dark (however, other tricyclics do NOT seem as photosenstive)
 * Water solubility is not great by any means
 * Agranulocytosis is rare side effect reported from long term use from some but not all tricylic drugs (We will need to research this more)
+
+
+
+
+<img src ="https://github.com/OpenSourceMycetoma/Series-3-Phenothiazines/blob/master/frontpage_2.png"> </img>
