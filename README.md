@@ -1,4 +1,4 @@
-<img src ="https://github.com/OpenSourceMycetoma/Series-3-Phenothiazines/blob/master/frontpage.png"> </img>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trifluoperazine.svg/1280px-Trifluoperazine.svg.png"> </img>
 
 
 
