@@ -11,10 +11,8 @@ Advantages:
 * Phenothiazine drugs has been used in clinical antimicrobial experiments a handful of times: (E.G https://doi.org/10.1016/S0140-6736(83)91769-5 and https://doi.org/10.1086/379020 )
 
 Disadvantages:
-* Phenothiazines are photosensitive and some may cause a tetracycline-like photosensitivity in vivo - they also must be stored in the dark (however, other tricyclics do NOT seem as photosenstive)
-* Water solubility is not great by any means
+* Some tricyclic drugs may cause a tetracycline-like photosensitivity in vivo (We will need to research this more)
+* Water solubility is not great
 * Agranulocytosis is rare side effect reported from long term use from some but not all tricylic drugs (We will need to research this more)
-* Since parent drugs are neurological ones with some rather unpleasant side-effects - We will need to take this into account!!!!!
+* Parent drugs are neurological ones with some rather unpleasant side-effects
 
-
-<img src ="https://github.com/OpenSourceMycetoma/Series-3-Phenothiazines/blob/master/frontpage_2.png"> </img>
