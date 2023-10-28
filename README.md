@@ -1,9 +1,5 @@
 <h1>Series 3: A tricyclic antifungal drug devlopment project</h1>
 
-<img src ="https://upload.wikimedia.org/wikipedia/commons/8/81/Fenethazine.svg"> </img>
-
-
-
 Advantages:
 * Phenothiazines show a large spectrum of activity against both fungi and amoeba (including those that cause some NTD's) 
 * Extremely low cost and straightforward to produce (only 2 or 3 steps from common materials) (1 kilo of phenothiazine is less than 100 usd from SA)
@@ -18,3 +14,8 @@ Disadvantages:
 * Agranulocytosis is rare side effect reported from long term use from some but not all drugs in this class (We will need to research this more)
 * Parent drugs are neurological ones (the exception being the curaxin-NEU tricyclics)
 with some rather unpleasant side-effects 
+
+
+
+<img src ="https://upload.wikimedia.org/wikipedia/commons/8/81/Fenethazine.svg"> </img>
+
