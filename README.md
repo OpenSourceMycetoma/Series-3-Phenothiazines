@@ -1,4 +1,6 @@
-<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trifluoperazine.svg/1280px-Trifluoperazine.svg.png"> </img>
+<h1>Series 3: A tricyclic antifungal drug devlopment project</h1>
+
+<img src ="https://en.wikipedia.org/wiki/Fenethazine#/media/File:Fenethazine.svg"> </img>
 
 
 
@@ -14,5 +16,5 @@ Disadvantages:
 * Some tricyclic drugs may cause a tetracycline-like photosensitivity in vivo (We will need to research this more)
 * Water solubility is not great
 * Agranulocytosis is rare side effect reported from long term use from some but not all drugs in this class (We will need to research this more)
-* Parent drugs are neurological ones with some rather unpleasant side-effects
-
+* Parent drugs are neurological ones (the exception being the curaxin-NEU tricyclics)
+with some rather unpleasant side-effects 
