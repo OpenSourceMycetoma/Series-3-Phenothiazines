@@ -1,6 +1,6 @@
 <h1>Series 3: A tricyclic antifungal drug devlopment project</h1>
 
-<img src ="https://en.wikipedia.org/wiki/Fenethazine#/media/File:Fenethazine.svg"> </img>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/8/81/Fenethazine.svg"> </img>
 
 
 
