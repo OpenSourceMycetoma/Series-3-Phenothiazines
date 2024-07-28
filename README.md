@@ -12,8 +12,7 @@ Disadvantages:
 * Some tricyclic drugs may cause a tetracycline-like photosensitivity in vivo (We will need to research this more)
 * Water solubility is not great
 * Agranulocytosis is rare side effect reported from long term use from some but not all drugs in this class (We will need to research this more)
-* Parent drugs are neurological ones (the exception being the curaxin-NEU tricyclics)
-with some rather unpleasant side-effects 
+* Parent drugs come with some with some rather unpleasant side-effects (I do not know what the side effects are of Curaxin-137 however)
 
 
 
