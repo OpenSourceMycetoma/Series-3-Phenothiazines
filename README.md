@@ -11,10 +11,8 @@ Advantages:
 Disadvantages:
 * Some tricyclic drugs may cause a tetracycline-like photosensitivity in vivo (We will need to research this more)
 * Water solubility is not great
-* Agranulocytosis is rare side effect reported from long term use from some but not all drugs in this class (We will need to research this more)
+* Myelosuppression is a rare side effect reported from long term use from some but not all drugs in this class (We will need to research this more)
 * Some tricyclic class drugs come with some with some rather unpleasant side-effects 
 
-
-
-<img src ="https://upload.wikimedia.org/wikipedia/commons/8/81/Fenethazine.svg"> </img>
+![image](https://github.com/user-attachments/assets/c26a8c47-ab1b-4d2c-8af0-bc06acc1f9bc)
 
